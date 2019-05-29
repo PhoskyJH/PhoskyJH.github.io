@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://PhoskyJH.github.io/2019/05/25/test/</loc>
+    
+    <lastmod>2019-05-29T11:52:10.632Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://PhoskyJH.github.io/about/index.html</loc>
+    
+    <lastmod>2019-05-29T07:56:44.990Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://PhoskyJH.github.io/tags/index.html</loc>
+    
+    <lastmod>2019-05-29T07:51:40.851Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://PhoskyJH.github.io/2016/06/01/Hexo%E6%95%99%E7%A8%8B/</loc>
+    
+    <lastmod>2019-05-29T07:50:01.226Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://PhoskyJH.github.io/categories/index.html</loc>
+    
+    <lastmod>2019-05-29T07:49:18.267Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://PhoskyJH.github.io/2019/05/23/hello-world/</loc>
     
     <lastmod>2019-05-23T03:03:59.780Z</lastmod>

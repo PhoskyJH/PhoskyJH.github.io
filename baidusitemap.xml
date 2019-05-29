@@ -3,6 +3,46 @@
 
     
   <url>
+    <loc>http://PhoskyJH.github.io/2019/05/25/test/</loc>
+    <lastmod>2019-05-29T11:52:10.632Z</lastmod>
+    <data>
+        <display>
+        <title>text</title>
+        <pubTime>2019-05-25T09:41:08.971Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+  <url>
+    <loc>http://PhoskyJH.github.io/2016/06/01/Hexo%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2019-05-29T07:50:01.226Z</lastmod>
+    <data>
+        <display>
+        <title>title</title>
+        <pubTime>2016-06-01T15:47:44.000Z</pubTime>
+        
+        <tag>标签1 </tag>
+         
+        <tag>标签2 </tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo教程" url="http://PhoskyJH.github.io/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
     <loc>http://PhoskyJH.github.io/2019/05/23/hello-world/</loc>
     <lastmod>2019-05-23T03:03:59.780Z</lastmod>
     <data>
